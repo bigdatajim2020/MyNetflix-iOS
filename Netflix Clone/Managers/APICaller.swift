@@ -8,11 +8,11 @@
 import Foundation
 
 struct Constants{
-    static let API_KEY = "b7a62ac536c185d3c59d0c2b639ea5ac"
-    static let API_TOKEN = "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJiN2E2MmFjNTM2YzE4NWQzYzU5ZDBjMmI2MzllYTVhYyIsInN1YiI6IjY0ZDI0MzNjODUwOTBmMDBjODdlOWFlNSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.GSjEr_UmIM44mh9DvijMC-yz9uOz6m3WzztEIapwTNs"
+    static let API_KEY = ""
+    static let API_TOKEN = "Bearer "
     static let baseURL = "https://api.themoviedb.org"
     
-    static let YoutubeAPI_KEY = "AIzaSyD6XUps0vTCYu2pC2Bi5JEZGiHhRp591a8"
+    static let YoutubeAPI_KEY = ""
     static let YoutubeBaseURL = "https://youtube.googleapis.com/youtube/v3/search?"
 }
 
